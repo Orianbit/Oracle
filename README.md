@@ -29,7 +29,7 @@ Oracle XE (Express Edition) is a lightweight, free-to-use version of Oracle Data
 - Docker support for containerized environments
 
 # Prerequisites
-Before you begin, ensure you have met the following requirements:
-A supported operating system (Linux, Windows, macOS)
-Docker installed (if you plan to use the Docker setup)
-Sufficient disk space and memory (at least 2GB of RAM and 10GB of free disk space)
+- Before you begin, ensure you have met the following requirements:
+- A supported operating system (Linux, Windows, macOS)
+- Docker installed (if you plan to use the Docker setup)
+- Sufficient disk space and memory (at least 2GB of RAM and 10GB of free disk space)
