@@ -22,11 +22,11 @@ To create a new user (login) and set a password in Oracle Database XE 11.2 using
    
 5.**Grant necessary privileges to the new user:**
 - Grant the required privileges to the new user. At a minimum, you might want to grant the CONNECT role, which allows the user to connect to the databas sql
- - GRANT CONNECT TO new_user;
+  - GRANT CONNECT TO new_user;
 
 6.**Optionally, grant other necessary roles or privileges:**
 - Depending on what the user needs to do, you may need to grant additional roles or privileges, such as RESOURCE, DBA, or specific object privileges.
-  - GRANT RESOURCE TO new_user;
+   - GRANT RESOURCE TO new_user;
 
 7.**EXIT**
 - Exit the SQL*PLUS.
