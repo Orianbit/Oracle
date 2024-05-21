@@ -3,7 +3,7 @@ Welcome to the Oracle XE Database Simplified repository! This project aims to pr
 
 ## Table of Contents
 
-- [Introduction]
+- [Introduction](#introduction)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -23,10 +23,10 @@ Welcome to the Oracle XE Database Simplified repository! This project aims to pr
 Oracle XE (Express Edition) is a lightweight, free-to-use version of Oracle Database, ideal for learning, developing, and deploying applications. This repository provides scripts and configurations to simplify the installation and usage of Oracle XE.
 
 # Features
--Easy installation scripts for Oracle XE Database
--Basic configuration and setup guidelines
--Sample SQL scripts for common tasks
--Docker support for containerized environments
+- Easy installation scripts for Oracle XE Database
+- Basic configuration and setup guidelines
+- Sample SQL scripts for common tasks
+- Docker support for containerized environments
 
 # Prerequisites
 Before you begin, ensure you have met the following requirements:
