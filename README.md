@@ -3,7 +3,7 @@ Welcome to the Oracle XE Database Simplified repository! This project aims to pr
 
 ## Table of Contents
 
-- (Introduction)
+- [Introduction]
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
