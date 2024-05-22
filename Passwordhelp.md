@@ -1,5 +1,5 @@
 # PASSWORD
-The main issue while using the Oracle XE DATABASE 11.2 faced by me was to create a new user for login and also to reset your password.
+The main issue while using the Oracle XE DATABASE 11.2 faced by me was to create a new user for login and also to reset my password.
 
 # Create a NEW USER LOGIN (Using CMD)
 To create a new user (login) and set a password in Oracle Database XE 11.2 using the command line, follow the steps:
